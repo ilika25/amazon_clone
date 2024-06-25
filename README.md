@@ -1,1 +1,1 @@
-Amazon Shooping Website Clone
+Amazon Shopping Website Clone
